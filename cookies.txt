@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.daltonstate.edu	TRUE	/	FALSE	1999999999	CFID	59595432
+www.daltonstate.edu	TRUE	/	FALSE	1999999999	CFTOKEN	dabbb48d40498454-65CFB3E2-FFA7-8F52-F3295CEF85FCD30D
+www.daltonstate.edu	TRUE	/	FALSE	1999999999	EDIT_TOGGLE	viewprod
+www.daltonstate.edu	TRUE	/	FALSE	1999999999	access_level	1
+www.daltonstate.edu	TRUE	/	FALSE	1999999999	THISPAGELINK	%2Fcampus%5Flife%2Fstudent%2Dlife%2Dwelcome%2Ecms
+
